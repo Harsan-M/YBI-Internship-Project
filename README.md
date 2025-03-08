@@ -1,2 +1,2 @@
-# YBI-Internship-Project
-YBI Internship Project :  Machine Learning - Women's clothing 
+# YBI-PROJECT
+Created a Women Cloth Reviews Prediction with Multi Nomial Naïve Bayes for ybi internship project.
